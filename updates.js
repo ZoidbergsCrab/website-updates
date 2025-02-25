@@ -3,7 +3,7 @@
 
     window.updatesData = {
         latestVersion: "2.1",
-        changelog: "Fixed bugs and added new features!",
+        changelog: "Fixed bugs and added new features! (V2.1)",
         downloadURL: "https://github.com/user-attachments/files/18952161/update.zip"
     };
 })();
