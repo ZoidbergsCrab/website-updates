@@ -1,5 +1,5 @@
 (function() {
-    if (window.updatesData) return; // Prevent redeclaration
+    if (window.updatesData) return; // Prevent duplicate loading
 
     window.updatesData = {
         latestVersion: "2.1",
