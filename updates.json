@@ -1,5 +1,5 @@
 {
     "latestVersion": "2.1",
-    "downloadURL": "https://github.com/ZoidbergsCrab/website-updates/releases/latest/download/update.zip",
-    "changelog": "Added remote update system and bug fixes."
+    "changelog": "Fixed bugs and added new features!",
+    "downloadURL": "https://github.com/ZoidbergsCrab/website-updates/releases/download/v2.1/update.zip"
 }
